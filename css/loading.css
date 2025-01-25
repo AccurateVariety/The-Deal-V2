@@ -11,6 +11,10 @@ body:before {
 	width:100%;
 	height:100%;
 	background:#0a0a0a;
+	background-image: url('https://cdn.discordapp.com/attachments/1331974016755302423/1331981710782365716/34g3.jpg?ex=67939822&is=679246a2&hm=0968ee8fb5b05dd0646fcf5845728f888dd75285fafc547473be2e825161da83&');
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
 }
 .ind1 {
 	padding-top:5px;
